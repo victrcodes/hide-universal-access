@@ -1,7 +1,7 @@
 {
-  "name": "Hide Universal Access",
-  "description": "Hide Universal Access icon from the status bar",
-  "uuid": "hide-universal-access@akiirui.github.io",
-  "url": "https://github.com/akiirui/hide-universal-access",
+  "name": "Hide Universal Access on All Monitors",
+  "description": "Hide the Universal Access icon on GNOME Shell panels across all monitors",
+  "uuid": "hide-universal-access-all-monitors@victrcodes.github.io",
+  "url": "https://github.com/victrcodes/hide-universal-access",
   "shell-version": ["49"]
 }

@@ -1,4 +1,4 @@
-UUID = hide-universal-access@akiirui.github.io
+UUID = hide-universal-access-all-monitors@victrcodes.github.io
 DIST_ARCHIVE = $(UUID).shell-extension.zip
 
 build:
